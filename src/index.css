@@ -5,15 +5,15 @@
 }
 @font-face {
     font-family: TestNational2-regular;
-    src: url("../public/Test National 2\TestNational2-Regular.otf");
+    src: url("../public/fonts/TestNational2-Regular.otf");
 }
 @font-face {
     font-family: TestNational2-medium;
-    src: url("../public/Test National 2\TestNational2-Medium.otf");
+    src: url("../public/fonts/TestNational2-Medium.otf");
 }
 @font-face {
     font-family: TestNational2-condensed;
-    src: url("../public/Test National 2 Condensed\TestNational2Condensed-Bold.otf");
+    src: url("../public/fonts/TestNational2Condensed-Bold.otf");
 }
 
 .main-header{
